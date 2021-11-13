@@ -17,3 +17,8 @@
 17. 通用寄存器型智林吉结构(GPR)
 18. 数据通路
 19. MIPS指令集
+20. spatial hashing
+21. opencl
+22. prefix-sum
+23. compact-hash
+24. JIT
