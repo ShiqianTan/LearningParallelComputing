@@ -24,3 +24,4 @@
 20. 冯诺依曼结构： <https://zh.wikipedia.org/wiki/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84>
 21. 缓存： <https://zh.wikipedia.org/wiki/%E7%BC%93%E5%AD%98>
 22. 流处理： <https://zh.wikipedia.org/wiki/%E4%B8%B2%E6%B5%81%E8%99%95%E7%90%86>
+23. String processing: <https://en.wikipedia.org/wiki/Stream_processing>
