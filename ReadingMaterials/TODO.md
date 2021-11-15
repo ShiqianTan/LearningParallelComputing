@@ -22,3 +22,18 @@
 22. prefix-sum
 23. compact-hash
 24. JIT
+25. 静态流水线，动态流水线
+26. Earle锁存器
+27. 时钟扭曲
+28. 流水线相关
+29. 定向技术forwarding
+30. 流水线调度，指令调度
+31. 流水线分支预测
+32. 向量链接技术
+33. linpack benchmark
+34. roofline model
+35. affinity
+36. large pages
+37. CPU affinity
+
+
