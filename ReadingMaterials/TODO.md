@@ -35,5 +35,9 @@
 35. affinity
 36. large pages
 37. CPU affinity
+38. false sharing
+39. affinity
+40. ccnuma
+41. 
 
 
